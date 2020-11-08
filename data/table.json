@@ -4,15 +4,15 @@ data = [
 		"author": "Eurythmics",
 		"nationality": "Inglaterra",
 		"birth_year": 1952,
-		"fields": "Sweet Dreams, Jennifer",
+		"fields": "Jennifer, Sweet Dreams",
 		"books": [
 			{
 				"book_id": 1,
-				"title": "Sweet Dreams"
+				"title": "Jennifer"
 			},
 			{
 				"book_id": 2,
-				"title": "Jennifer"
+				"title": "Sweet Dreams"
 			}
 		]
 	},
