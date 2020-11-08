@@ -1,5 +1,5 @@
 <h4 style="margin-top: 15px">{{ author }}</h4>
-<h5>Author's details</h5>
+<h5>Detalles de cantante</h5>
 
 <form>
   <div class="row">
@@ -8,7 +8,7 @@
        <input class="u-full-width" id="_id" type="text" value="{{ _id }}" readonly/>
     </div>
     <div class="six columns">
-       <label for="nationalityInput">Nationality</label>
+       <label for="nationalityInput">Nacionalidad</label>
        <input class="u-full-width" id="nationality" type="text" value="{{ nationality }}" readonly/>
     </div>
   </div>
@@ -18,15 +18,15 @@
        <input class="u-full-width" id="birth_year" type="text" value="{{ birth_year }}"  readonly/>
     </div>
     <div class="six columns">
-       <label for="fieldsInput">Fields</label>
+       <label for="fieldsInput">Canciones</label>
        <input class="u-full-width" id="fields" type="text" value="{{ fields  }}"  readonly/>
     </div>
   </div>
 </form>
 
-<h5>Books</h5>
+<h5>Canciones</h5>
 <ul>
 {{#books}}
-  <li><a href="https://books-minisite.netlify.app/get?id={{book_id}}">{{title}}</li>
+  <li><a href="https://canciones-minisite.netlify.app/get?id={{book_id}}">{{title}}</li>
 {{/books}}
 </ul>
