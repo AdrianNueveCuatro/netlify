@@ -1,6 +1,6 @@
 <h4 style="margin-top: 15px">{{ publisher }}</h4>
 
-<h5>Publisher's details</h5>
+<h5>Detalles de albums</h5>
 <form>
   <div class="row">
     <div class="six columns">
@@ -18,15 +18,15 @@
        <input class="u-full-width" id="founded" type="text" value="{{ founded }}"  readonly/>
     </div>
     <div class="six columns">
-       <label for="genereInput">Genere</label>
+       <label for="genereInput">Genero</label>
        <input class="u-full-width" id="genere" type="text" value="{{ genere  }}"  readonly/>
     </div>
   </div>
 </form>
 
-<h5>Books</h5>
+<h5>Canciones</h5>
 <ul>
 {{#books}}
-  <li><a href="https://books-minisite.netlify.app/get?id={{book_id}}">{{title}}</li>
+  <li><a href="https://canciones-minisite.netlify.app/get?id={{book_id}}">{{title}}</li>
 {{/books}}
 </ul>
