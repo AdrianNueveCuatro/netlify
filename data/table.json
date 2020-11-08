@@ -1,35 +1,35 @@
 data = [
 	{
 		"_id": 1,
-		"author": "Abraham Silberschatz",
-		"nationality": "Israelis / American",
+		"author": "Eurythmics",
+		"nationality": "Inglaterra",
 		"birth_year": 1952,
-		"fields": "Database Systems, Operating Systems",
+		"fields": "Sweet Dreams, Jennifer",
 		"books": [
 			{
 				"book_id": 1,
-				"title": "Operating System Concepts"
+				"title": "Sweet Dreams"
 			},
 			{
 				"book_id": 2,
-				"title": "Database System Concepts"
+				"title": "Jennifer"
 			}
 		]
 	},
 	{
 		"_id": 2,
-		"author": "Andrew S. Tanenbaum",
-		"nationality": "Dutch / American",
+		"author": "Eiffel 65",
+		"nationality": "Italia",
 		"birth_year": 1944,
-		"fields": "Distributed computing, Operating Systems",
+		"fields": "Blue, Dub In Life",
 		"books": [
 			{
 				"book_id": 3,
-				"title": "Computer Networks"
+				"title": "Blue"
 			},
 			{
 				"book_id": 4,
-				"title": "Modern Operating Systems"
+				"title": "Dub In Life"
 			}
 		]
 	}
