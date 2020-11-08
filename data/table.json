@@ -1,35 +1,35 @@
 data = [
 	{
 		"_id": 1,
-		"publisher": "John Wiley & Sons",
-		"country": "United States",
+		"publisher": "Sweet Dreams Album",
+		"country": "Inglaterra",
 		"founded": 1807,
-		"genere": "Academic",
+		"genere": "Rock",
 		"books": [
 			{
 				"book_id": 1,
-				"title": "Operating System Concepts"
+				"title": "Jennifer"
 			},
 			{
 				"book_id": 2,
-				"title": "Database System Concepts"
+				"title": "Sweet Dreams"
 			}
 		]
 	},
 	{
 		"_id": 2,
-		"publisher": "Pearson Education",
-		"country": "United Kingdom",
+		"publisher": "Europop",
+		"country": "Italia",
 		"founded": 1844,
-		"genere": "Education",
+		"genere": "Pop",
 		"books": [
 			{
 				"book_id": 3,
-				"title": "Computer Networks"
+				"title": "Blue"
 			},
 			{
 				"book_id": 4,
-				"title": "Modern Operating Systems"
+				"title": "Dub In Life"
 			}
 		]
 	}
