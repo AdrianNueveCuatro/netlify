@@ -32,5 +32,22 @@ data = [
 				"title": "Dub In Life"
 			}
 		]
+	},
+	{
+		"_id": 3,
+		"author": "Major Lazer",
+		"nationality": "Jamaica",
+		"debut": 2008,
+		"fields": "Scare me, Get free",
+		"songs": [
+			{
+				"song_id": 5,
+				"title": "Scare me"
+			},
+			{
+				"song_id": 6,
+				"title": "Get free"
+			}
+		]
 	}
 ]
