@@ -70,5 +70,29 @@ data = [
 		"author_id": 3,
 		"album": "Free the Universe",
 		"album_id": 3
+	},
+	{
+		"_id": 7,
+		"title": "Rakata",
+		"format": "MP3",
+		"copyright": 2005,
+		"language": "Español",
+		"duration": 3,
+		"author": "Wisin & Yandel",
+		"author_id": 4,
+		"album": "Pal Mundo",
+		"album_id": 4
+	},
+	{
+		"_id": 8,
+		"title": "Sin el",
+		"format": "MP3",
+		"copyright": 2005,
+		"language": "Español",
+		"duration": 3,
+		"author": "Wisin & Yandel",
+		"author_id": 4,
+		"album": "Pal Mundo",
+		"album_id": 4
 	}
 ]
