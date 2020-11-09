@@ -47,4 +47,28 @@ data = [
 		"publisher": "Europop",
 		"publisher_id": 2
 	}
+	{
+		"_id": 5,
+		"title": "Scare me",
+		"format": "MP3",
+		"copyright": 2013,
+		"language": "Inglés",
+		"duration": 3,
+		"author": "Major Lazer",
+		"author_id": 3,
+		"publisher": "Free the Universe",
+		"publisher_id": 3
+	}
+	{
+		"_id": 6,
+		"title": "Get free",
+		"format": "MP3",
+		"copyright": 2013,
+		"language": "Inglés",
+		"duration": 3,
+		"author": "Major Lazer",
+		"author_id": 3,
+		"publisher": "Free the Universe",
+		"publisher_id": 3
+	}
 ]
