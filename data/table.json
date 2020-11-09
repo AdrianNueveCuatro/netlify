@@ -1,10 +1,10 @@
 data = [
 	{
 		"_id": 1,
-		"publisher": "Sweet Dreams Album",
+		"album": "Sweet Dreams Album",
 		"country": "Inglaterra",
 		"founded": 1807,
-		"genere": "Rock",
+		"genre": "Rock",
 		"books": [
 			{
 				"book_id": 1,
@@ -18,10 +18,10 @@ data = [
 	},
 	{
 		"_id": 2,
-		"publisher": "Europop",
+		"album": "Europop",
 		"country": "Italia",
 		"founded": 1844,
-		"genere": "Pop",
+		"genre": "Pop",
 		"books": [
 			{
 				"book_id": 3,
