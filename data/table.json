@@ -49,5 +49,22 @@ data = [
 				"title": "Get free"
 			}
 		]
+	},
+	{
+		"_id": 4,
+		"author": "Wisin & Yandel",
+		"nationality": "Puerto Rico",
+		"debut": 1998,
+		"fields": "Rakata, Sin el",
+		"songs": [
+			{
+				"song_id": 7,
+				"title": "Rakata"
+			},
+			{
+				"song_id": 8,
+				"title": "Sin el"
+			}
+		]
 	}
 ]
