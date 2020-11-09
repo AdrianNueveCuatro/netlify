@@ -5,13 +5,13 @@ data = [
 		"nationality": "Inglaterra",
 		"debut": 1980,
 		"fields": "Jennifer, Sweet Dreams",
-		"books": [
+		"songs": [
 			{
-				"book_id": 1,
+				"song_id": 1,
 				"title": "Jennifer"
 			},
 			{
-				"book_id": 2,
+				"song_id": 2,
 				"title": "Sweet Dreams"
 			}
 		]
@@ -22,13 +22,13 @@ data = [
 		"nationality": "Italia",
 		"debut": 1998,
 		"fields": "Blue, Dub In Life",
-		"books": [
+		"songs": [
 			{
-				"book_id": 3,
+				"song_id": 3,
 				"title": "Blue"
 			},
 			{
-				"book_id": 4,
+				"song_id": 4,
 				"title": "Dub In Life"
 			}
 		]
