@@ -46,7 +46,7 @@ data = [
 		"author_id": 2,
 		"publisher": "Europop",
 		"publisher_id": 2
-	}
+	},
 	{
 		"_id": 5,
 		"title": "Scare me",
@@ -58,7 +58,7 @@ data = [
 		"author_id": 3,
 		"publisher": "Free the Universe",
 		"publisher_id": 3
-	}
+	},
 	{
 		"_id": 6,
 		"title": "Get free",
