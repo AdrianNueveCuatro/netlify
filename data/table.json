@@ -32,5 +32,22 @@ data = [
 				"title": "Dub In Life"
 			}
 		]
+	},
+	{
+		"_id": 2,
+		"album": "Free the Universe",
+		"country": "Jamaica",
+		"release": 2013,
+		"genre": "Dancehall",
+		"songs": [
+			{
+				"song_id": 5,
+				"title": "Scare me"
+			},
+			{
+				"song_id": 6,
+				"title": "Get free"
+			}
+		]
 	}
 ]
