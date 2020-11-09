@@ -8,17 +8,17 @@
        <input class="u-full-width" id="_id" type="text" value="{{ _id }}" readonly/>
     </div>
     <div class="six columns">
-       <label for="countryInput">Country</label>
+       <label for="countryInput">País</label>
        <input class="u-full-width" id="country" type="text" value="{{ country }}" readonly/>
     </div>
   </div>
   <div class="row">
     <div class="six columns">
-       <label for="foundedInput">Founded</label>
-       <input class="u-full-width" id="founded" type="text" value="{{ founded }}"  readonly/>
+       <label for="foundedInput">Lanzamiento</label>
+       <input class="u-full-width" id="founded" type="text" value="{{ release }}"  readonly/>
     </div>
     <div class="six columns">
-       <label for="genereInput">Genero</label>
+       <label for="genereInput">Género</label>
        <input class="u-full-width" id="genere" type="text" value="{{ genre  }}"  readonly/>
     </div>
   </div>
@@ -26,7 +26,7 @@
 
 <h5>Canciones</h5>
 <ul>
-{{#books}}
-  <li><a href="https://canciones-minisite.netlify.app/get?id={{book_id}}">{{title}}</li>
-{{/books}}
+{{#songs}}
+  <li><a href="https://canciones-minisite.netlify.app/get?id={{song_id}}">{{title}}</li>
+{{/songs}}
 </ul>
