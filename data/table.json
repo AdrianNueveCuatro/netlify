@@ -8,8 +8,8 @@ data = [
 		"duration": 3,
 		"author": "Eurythmics",
 		"author_id": 1,
-		"publisher": "Sweet Dreams Album",
-		"publisher_id": 1
+		"album": "Sweet Dreams Album",
+		"album_id": 1
 	},
 	{
 		"_id": 2,
@@ -20,8 +20,8 @@ data = [
 		"duration": 3,
 		"author": "Eurythmics",
 		"author_id": 1,
-		"publisher": "Sweet Dreams Album",
-		"publisher_id": 1
+		"album": "Sweet Dreams Album",
+		"album_id": 1
 	},
 	{
 		"_id": 3,
@@ -32,8 +32,8 @@ data = [
 		"duration": 4,
 		"author": "Eiffel 65",
 		"author_id": 2,
-		"publisher": "Europop",
-		"publisher_id": 2
+		"album": "Europop",
+		"album_id": 2
 	},
 	{
 		"_id": 4,
@@ -44,8 +44,8 @@ data = [
 		"duration": 3,
 		"author": "Eiffel 65",
 		"author_id": 2,
-		"publisher": "Europop",
-		"publisher_id": 2
+		"album": "Europop",
+		"album_id": 2
 	},
 	{
 		"_id": 5,
@@ -56,8 +56,8 @@ data = [
 		"duration": 3,
 		"author": "Major Lazer",
 		"author_id": 3,
-		"publisher": "Free the Universe",
-		"publisher_id": 3
+		"album": "Free the Universe",
+		"album_id": 3
 	},
 	{
 		"_id": 6,
@@ -68,7 +68,7 @@ data = [
 		"duration": 3,
 		"author": "Major Lazer",
 		"author_id": 3,
-		"publisher": "Free the Universe",
-		"publisher_id": 3
+		"album": "Free the Universe",
+		"album_id": 3
 	}
 ]
